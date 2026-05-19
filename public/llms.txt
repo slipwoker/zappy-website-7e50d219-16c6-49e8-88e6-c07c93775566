@@ -1,0 +1,106 @@
+# פארמוטיקס — Generative Engine Optimization Map
+
+> Farm To Table is an organic pet food store specializing in natural and wholesome food products for dogs, along with complementary health and wellness products. The brand name 'Farm To Table' evokes a farm-fresh, nature-inspired identity that emphasizes the journey from organic sources directly to the pet's bowl. The brand likely appeals to health-conscious pet owners who prioritize clean, natural ingredients for their beloved dogs.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+פארמוטיקס היא חנות אוכל לכלבים המתמחה במוצרים אורגניים וטבעיים. אוכל בריא לכלבים ישירות מהחווה לקערה — כי הכלב שלך ראוי לטוב ביותר. גלו עכשיו!
+
+### הגישה שלנו
+https://example.com/our-approach
+הגישה שלנו בפארמוטיקס מבוססת על מרכיבים טהורים ואורגניים בלבד. אנחנו מאמינים שאוכל בריא לכלבים מתחיל במקור — ללא חומרים מלאכותיים, ללא פשרות. גלו את הפילוסופיה שלנו.
+
+### אודות
+https://example.com/about
+פארמוטיקס נולדה מאהבה אמיתית לכלבים ומחויבות לתזונה נקייה. הכירו את הצוות שמאחורי חנות אוכל לכלבים שמציבה את הבריאות והטבע במרכז — כי כל כלב מגיע לחיים מלאים.
+
+### צור קשר
+https://example.com/contact
+רוצים לדעת איזה אוכל בריא לכלבים מתאים לבן הפרווה שלכם? צרו קשר עם צוות פארמוטיקס ונשמח לייעץ, להמליץ ולעזור לכם לבחור את הטוב ביותר עבור הכלב שלכם.
+
+### Products
+https://example.com/products
+המוצרים שלנו - פארמוטיקס
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - פארמוטיקס
+
+### Category
+https://example.com/category/:slug
+מוצרים - פארמוטיקס
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פארמוטיקס
+Farm To Table is an organic pet food store specializing in natural and wholesome food products for dogs, along with complementary health and wellness products. The brand name 'Farm To Table' evokes a farm-fresh, nature-inspired identity that emphasizes the journey from organic sources directly to the pet's bowl. The brand likely appeals to health-conscious pet owners who prioritize clean, natural ingredients for their beloved dogs.
+
+## Services/Products
+- אוכל לכלבים
+- מוצרים משלימים
+- אוכל אורגני
+
+## Target Audience
+- בעלי כלבים עירוניים
+- הורים לכלבים בריאותיים
+- בעלי כלבים חדשים
+- בעלי כלבים חובבי אוכל אורגני
+
+## Industry
+Pet Food & Organic Pet Products
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
